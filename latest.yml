@@ -1,6 +1,6 @@
 version: 1.1.4
 files:
-  - url: https://d1oe4xn7l7uicf.cloudfront.net/Digital%20Manufacturing%20Viewer%20Setup%201.1.4.exe
+  - url: Digital Manufacturing Viewer Setup 1.1.4.exe
     sha512: 2cho75t4/JxMnnY2omyZkN6Utm/4aGUIy/WdCyDrfIIJDblkwy4rNZJQ4v2zuCDHBw96h7O/4ZTDdLZ6gw0h9w==
     size: 51941658
 path: 'https://d1oe4xn7l7uicf.cloudfront.net/Digital%20Manufacturing%20Viewer%20Setup%201.1.4.exe'
