@@ -1,9 +1,10 @@
-version: 1.1.4
+version: 1.1.3
 files:
-  - url: Digital Manufacturing Viewer Setup 1.1.4.exe
-    sha512: 2cho75t4/JxMnnY2omyZkN6Utm/4aGUIy/WdCyDrfIIJDblkwy4rNZJQ4v2zuCDHBw96h7O/4ZTDdLZ6gw0h9w==
-    size: 51941658
-path: 'https://d1oe4xn7l7uicf.cloudfront.net/Digital%20Manufacturing%20Viewer%20Setup%201.1.4.exe'
-sha512: 2cho75t4/JxMnnY2omyZkN6Utm/4aGUIy/WdCyDrfIIJDblkwy4rNZJQ4v2zuCDHBw96h7O/4ZTDdLZ6gw0h9w==
-sha2: 513853795b87821a56ca087c311f86c711c3cac619df6790225f5fbdfd26889c
-releaseDate: '2020-05-03T07:14:14.429Z
+  - url: Digital Manufacturing Viewer Setup 1.1.3.exe
+    sha512: w5XwIVffwJpgnn2gWetj4H4WWBAsX8UYL1c1lbusBxUjoOmxN/xIdiMaeZ2HdsURaSZlrU3kjKYCPN25+kPBIw==
+    size: 48022336
+path: 'https://github.com/MFE-Innovation/dmv-auto-update/raw/master/Digital%20Manufacturing%20Viewer%20Setup%201.1.3.exe'
+sha512: w5XwIVffwJpgnn2gWetj4H4WWBAsX8UYL1c1lbusBxUjoOmxN/xIdiMaeZ2HdsURaSZlrU3kjKYCPN25+kPBIw==
+sha2: 380a971aec2eddea342542c3cdd986b705003ce77c5f1fb4feeb42c05231b3c2
+releaseDate: '2019-08-08T12:06:41.980Z'
+test: 'ahmad'
