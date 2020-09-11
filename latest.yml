@@ -1,9 +1,9 @@
 version: 1.1.6
 files:
   - url: Digital Manufacturing Viewer Setup 1.1.6.exe
-    sha512: 36hGmAeD5f9iH/ScLLH15m6/4xCbFj9Ng5wD1hKq+Dn1RHf31Oh201DmMS2TIpSVps/2aurqif0YS+5ggXgV5A==
-    size: 51832895
+    sha512: yNjnP86WNhZ5T+YDCavVtKvlFC/tIJKqNBemZFabXJKPvPU3h2V0iwoYTQU72AeMpOpDmEjtfdmxZ8hhgsIH1Q==
+    size: 51792502
 path: Digital Manufacturing Viewer Setup 1.1.6.exe
-sha512: 36hGmAeD5f9iH/ScLLH15m6/4xCbFj9Ng5wD1hKq+Dn1RHf31Oh201DmMS2TIpSVps/2aurqif0YS+5ggXgV5A==
-sha2: ab82fdf590591f297f3feb96924c66257db8f80fda2bfd18b956d3e924bb2191
-releaseDate: '2020-07-21T07:39:18.080Z'
+sha512: yNjnP86WNhZ5T+YDCavVtKvlFC/tIJKqNBemZFabXJKPvPU3h2V0iwoYTQU72AeMpOpDmEjtfdmxZ8hhgsIH1Q==
+sha2: 67387d54d556f7c4675a77388424c96fed269a567fe11d4e5dfc8dba4484c08d
+releaseDate: '2020-09-10T14:08:54.818Z'
